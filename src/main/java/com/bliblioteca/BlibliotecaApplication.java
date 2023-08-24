@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BlibliotecaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BlibliotecaApplication.class, args);
+		SpringApplication.run(git remoBlibliotecaApplication.class, args);
 	}
 
 }
